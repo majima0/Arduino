@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\ht19a078\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "f4784f6cffc79548e16d8c1f26555825",
+    "md5" : "MD5:f4784f6cffc79548e16d8c1f26555825",
+    "createdAt" : "2022-05-25T11:46:34.952",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2022-05-25T15:46:34.952"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\ht19a078\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "ee6f2f1949ffefe0861ee618265a5b16",
+    "md5" : "MD5:ee6f2f1949ffefe0861ee618265a5b16",
+    "createdAt" : "2022-05-25T11:46:33.306",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2022-05-25T12:46:33.306"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\ht19a078\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "147db3a6e777b067278e319ab02e2f06",
+    "md5" : "MD5:147db3a6e777b067278e319ab02e2f06",
+    "createdAt" : "2022-05-25T11:46:35.258",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2022-05-25T15:46:35.258"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\ht19a078\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "0533c4a7afa8d37ac376dd64ecfa7da9",
+    "md5" : "MD5:0533c4a7afa8d37ac376dd64ecfa7da9",
+    "createdAt" : "2022-05-25T11:46:33.21",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2022-05-25T12:46:33.210"
+  } ]
+}
